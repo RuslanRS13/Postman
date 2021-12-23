@@ -14,8 +14,8 @@ request url params:
 
 response: 
 [
-    “Str”,
-    “Str”
+    “str”,
+    “int”
 ]
 
 ==================
